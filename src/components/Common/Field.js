@@ -2,7 +2,6 @@ import React from "react";
 
 function Field(props) {
     const {
-        label,
         name,
         type,
         elementName,

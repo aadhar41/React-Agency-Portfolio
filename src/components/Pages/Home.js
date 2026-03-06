@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Header from "../Common/Header";
-import Footer from "../Common/Footer";
+
 import image from "../assets/img/header-bg.jpg"; // Adjust the import path as necessary
 import Services from "../Common/Services";
 import Portfolio from "../Common/Portfolio";

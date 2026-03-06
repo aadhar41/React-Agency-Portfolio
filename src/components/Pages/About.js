@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Link } from "react-router-dom";
+
 import Header from "../Common/Header";
 import Timeline from "../Common/Timeline";
 import image from "../assets/img/about/about.jpg"; // Adjust the import path as necessary

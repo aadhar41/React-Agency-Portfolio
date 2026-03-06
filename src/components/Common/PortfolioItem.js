@@ -1,7 +1,5 @@
 import React, { Component } from "react";
-import { Link } from "react-router-dom";
-import Header from "../Common/Header";
-import image from "../assets/img/services.jpg"; // Adjust the import path as necessary
+
 
 
 class PortfolioItem extends Component {
