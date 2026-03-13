@@ -1,5 +1,9 @@
 # React Agency Portfolio
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-v1.4-blue.svg)](CODE_OF_CONDUCT.md)
+
 A modern, responsive Single Page Application (SPA) built with React.js, based on the classic "Agency" theme. This project demonstrates a clean, component-based UI architecture, dynamic routing, and professional form validation.
 
 ## Key Features
@@ -56,29 +60,11 @@ To run this project locally, follow these steps:
 
 ## Screenshots
 
-### Home Page
-
-![Home Page](public/pages/home-page.png)
-
-### Services Page
-
-![Services Page](public/pages/services-page.png)
-
-### Portfolio Page
-
-![Portfolio Page](public/pages/portfolio-page.png)
-
-### About Page
-
-![About Page](public/pages/about-page.png)
-
-### Team Page
-
-![Team Page](public/pages/team-page.png)
-
-### Contact Us Page
-
-![Contact Us Page](public/pages/contactus-page.png)
+| Home Page | Services Page | Portfolio Page |
+| :---: | :---: | :---: |
+| ![Home Page](public/pages/home-page.png) | ![Services Page](public/pages/services-page.png) | ![Portfolio Page](public/pages/portfolio-page.png) |
+| **About Page** | **Team Page** | **Contact Us Page** |
+| ![About Page](public/pages/about-page.png) | ![Team Page](public/pages/team-page.png) | ![Contact Us Page](public/pages/contactus-page.png) |
 
 ## Available Scripts
 
@@ -86,6 +72,15 @@ To run this project locally, follow these steps:
 - `npm test`: Launches the test runner.
 - `npm run build`: Builds the app for production to the `build` folder.
 
+## Community & Contribution
+
+We welcome contributions! Please see our guides below to get started:
+
+- [Contributing Guidelines](CONTRIBUTING.md)
+- [Code of Conduct](CODE_OF_CONDUCT.md)
+- [Report a Bug](https://github.com/aadhar41/React-Agency-Portfolio/issues/new?template=bug_report.yml)
+- [Request a Feature](https://github.com/aadhar41/React-Agency-Portfolio/issues/new?template=feature_request.yml)
+
 ## License
 
-This project is specialized for educational and portfolio purposes.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. Specialized for educational and portfolio purposes.
