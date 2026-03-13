@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-v1.4-blue.svg)](CODE_OF_CONDUCT.md)
+[![Security Policy](https://img.shields.io/badge/Security-Policy-blue.svg)](SECURITY.md)
 
 A modern, responsive Single Page Application (SPA) built with React.js, based on the classic "Agency" theme. This project demonstrates a clean, component-based UI architecture, dynamic routing, and professional form validation.
 
@@ -78,6 +79,7 @@ We welcome contributions! Please see our guides below to get started:
 
 - [Contributing Guidelines](CONTRIBUTING.md)
 - [Code of Conduct](CODE_OF_CONDUCT.md)
+- [Security Policy](SECURITY.md)
 - [Report a Bug](https://github.com/aadhar41/React-Agency-Portfolio/issues/new?template=bug_report.yml)
 - [Request a Feature](https://github.com/aadhar41/React-Agency-Portfolio/issues/new?template=feature_request.yml)
 
